@@ -8,6 +8,8 @@ Para acceder a los usuarios regulares se utiliza la siguiente ruta mediante peti
 
 Los usuarios admin y los usuarios regulares se crearon de manera automatica con un script personalizado llamado [crearUsuarios.py](https://github.com/Raken09/djangoReact/blob/ceb5b674dc5299a45a0ebf611c4113bdf0cff051/appUsers/management/commands/crearUsuarios.py), el cual crea los usuarios en la base de datos de acuerdo a los modelos definidos.
 
+Render.com permite crear bases de datos con PostgreSQL basandose en los modelos de django, por lo tanto una vez hecho el deploy de la aplicacion los datos quedan guardados en la base de datos definida en render.com.
+
 ## Conexion backend-frontent
 
 Para conectar django con react, se definió una api [apiUsuarios](https://github.com/Raken09/djangoReact/blob/ceb5b674dc5299a45a0ebf611c4113bdf0cff051/FrontEnd/src/api/apiUsuarios.js) utilizando axios con el fin de realizar las diferentes peticiones a la base de datos.
