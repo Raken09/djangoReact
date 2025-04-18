@@ -16,6 +16,6 @@ Para conectar django con react, se definió una api [apiUsuarios](https://github
 
 ## Frontend
 
-Para el desarrollo del frontend se utilizó react.js junto co vite el cual dependiendo de la aplicacion tiene ventajas sobre otras herramientas como webpack, todo el codifo del frontend se encuentra en la carpeta [FrontEnd](https://github.com/Raken09/djangoReact/tree/ceb5b674dc5299a45a0ebf611c4113bdf0cff051/FrontEnd) 
+Para el desarrollo del frontend se utilizó react.js junto con vite el cual dependiendo de la aplicacion tiene ventajas sobre otras herramientas como webpack, todo el codifo del frontend se encuentra en la carpeta [FrontEnd](https://github.com/Raken09/djangoReact/tree/ceb5b674dc5299a45a0ebf611c4113bdf0cff051/FrontEnd) 
 
 Por ultimo mi idea era hacer deploys para el backend y frontend de manera independiente pero que existiera la conexion entre ambas partes, con el fin de que se pudieran optimizar de mejor manera ambas partes del proyecto, se que no pude completar la tarea en su totalidad y si llegaste hasta aquí te agradezco mucho, no queria terminar el reto sin entregar nada, me pareció un muy buen desadfio y pienso terminarlo por mi cuenta con el fin de practicar y adquirir mas conocimientos, ya que django no es una tecnologia que utilizo mucho, le dediqué mas tiempo a dicha prarte, dandome cuenta de todas las ventajas que tiene desarrollar el back en dicha tecnologia la cual pienso utilizar mas.
